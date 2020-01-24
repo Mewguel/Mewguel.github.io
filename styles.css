@@ -11,12 +11,16 @@ h2 {
     color: rgb(11, 45, 238);
 }
 
-p {
-    font-size: medium;
-    font-family: monospace;
+hr {
+    
+    border: none;
+    outline-style: dashed;
+    outline-color: skyblue;
+    width: 10%;
 }
 
-hr {
-    width: 10%;
+p {
+    font-family: monospace;
+    font-size: medium;
 }
 
